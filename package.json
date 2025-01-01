@@ -1,0 +1,14 @@
+{
+  "name": "quick-note-x",
+  "version": "1.0.0",
+  "description": "A full-stack note-taking application built with modern web technologies. Users can create, update, and delete notes in a clean, responsive interface.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
